@@ -1,10 +1,4 @@
 # Add_Photo_Readme_file
-
-![Uploading download.jpeg…]()
-
-
-file:///home/devlopment/Downloads/images%20(1).jpeg
-
-file:///home/devlopment/Downloads/download.jpeg
-![images](https://user-images.githubusercontent.com/102946994/208048324-db5f0f9c-20e1-43a0-a937-f5361bba5a40.jpeg)
-file:///home/devlopment/Downloads/WhatsApp%20Image%202022-12-02%20at%2012.27.10.jpeg
+![images](https://user-images.githubusercontent.com/102946994/208048651-5553c918-016c-4fff-9256-c005f801953b.jpeg)
+![download](https://user-images.githubusercontent.com/102946994/208048665-2edadfaf-c8a5-4004-9d7d-7a3872893e12.jpeg)
+![images (1)](https://user-images.githubusercontent.com/102946994/208048674-f4d7ab85-63f9-4163-a9cf-940e993a73f1.jpeg)
